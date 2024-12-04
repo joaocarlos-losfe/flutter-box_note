@@ -1,0 +1,14 @@
+const appColors = [
+  0XFFFFAB91,
+  0XFFFFCC80,
+  0XFFE6EE9B,
+  0XFF80DEEA,
+  0XFFCF93D9,
+  0xFFF48FB1,
+  0XFF80CBC4
+];
+
+const basicColorsDark = [
+  0xFF181818,
+  0XFF3C3C3C,
+];
