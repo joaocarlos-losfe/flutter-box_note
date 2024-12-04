@@ -19,6 +19,6 @@ Este projeto visa a criação de um aplicativo de notas simples, mas elegante
   <img src="docs/image3.jpg" alt="Exemplo 3" width="30%" />
 </div>
 
-*Capturas de tela - cor do texto, opacidade da imagem, templates disponiveis respectivamente*
+*Capturas de tela*
 
 ---
