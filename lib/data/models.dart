@@ -25,10 +25,10 @@ class NoteModel {
 
   double titleFontSize() {
     return title.length >= 60
-        ? 20
+        ? 16
         : title.length >= 40
             ? 22
-            : 16;
+            : 18;
   }
 
   String formatedDatetime() {
